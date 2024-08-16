@@ -1,3 +1,10 @@
+"use strict";
+
+const coder = "JavaScript Ninja";
+const days = 3;
+console.log(`This ${coder} is on day ${days} of their coding journey!`);
+
+//THE CHALLENGE
 // 1. Prompt the user for their name and favorite number
 const name = prompt("Enter your name, seeker of coding fortune:");
 const favoriteNumber = Number(
